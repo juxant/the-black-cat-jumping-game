@@ -1,4 +1,4 @@
-# my-first-game
+# the-black-cat-jumping-game
 With Unity
 
 ![Screenshot](screenshot.png)
